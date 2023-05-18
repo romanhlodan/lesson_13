@@ -48,7 +48,7 @@ public class Main {
                     break;
                 }
                 case 9: {
-                    System.out.println("Не вийшло");
+                    faction.bigHubar();
                 }
 
             }
