@@ -13,7 +13,7 @@ public class Diputat extends Person {
         this.name = name;
         this.surname = surname;
         this.habar = habar;
-        habarAdd();
+
     }
 
     public String getName() {

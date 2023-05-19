@@ -138,5 +138,6 @@ public class Faction {
     public void bigHubar(){
         Collections.sort(diputats,new DiputatHubarSizeSorting());
         System.out.println(diputats.get(diputats.size()-1));
+
     }
 }
